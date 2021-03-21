@@ -110,3 +110,5 @@ sudo apt install chromium-codecs-ffmpeg-extra</p>
 sudo systemd-resolve --flush-caches</p>
 <p class="has-line-data" data-line-start="132" data-line-end="134">#howtoclearchromednscache<br>
 chrome://net-internals/#dns</p>
+<p class="has-line-data" data-line-start="135" data-line-end="137">#howtodeletehistory<br>
+for line in $(seq 1418 1420) ; do history -d 1418; done</p>

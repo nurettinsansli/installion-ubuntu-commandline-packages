@@ -19,7 +19,7 @@ git --version</p>
 <p class="has-line-data" data-line-start="20" data-line-end="24">#vscode<br>
 <a href="https://code.visualstudio.com/Download">https://code.visualstudio.com/Download</a><br>
 cd ~/Downloads<br>
-sudo dpkg -i code_1.26.0-1534177765_amd64.deb</p>
+sudo dpkg -i GlobalProtect_deb-5.1.5.0-8.deb</p>
 <p class="has-line-data" data-line-start="25" data-line-end="27">#vlc<br>
 sudo snap install vlc</p>
 <p class="has-line-data" data-line-start="28" data-line-end="35">#GlobalProtect<br>

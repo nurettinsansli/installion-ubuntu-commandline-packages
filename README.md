@@ -24,7 +24,7 @@ sudo dpkg -i code_1.26.0-1534177765_amd64.deb</p>
 sudo snap install vlc</p>
 <p class="has-line-data" data-line-start="28" data-line-end="35">#GlobalProtect<br>
 download-&gt; <a href="https://drive.google.com/file/d/17HWBEUczwoHandU2L7v9jmDiJHukeSkD/view">https://drive.google.com/file/d/17HWBEUczwoHandU2L7v9jmDiJHukeSkD/view</a><br>
-tar -xvf ~/pkgs/PanGPLinux-5.1.0.tgz<br>
+tar -xvf PanGPLinux-5.1.5-c8.tgz<br>
 sudo dpkg -i GlobalProtect_deb-5.1.0.0-19.deb<br>
 how to connect vpn?<br>
 globalprotect connect --portal <a href="http://sslvpn.hepsiburada.com">sslvpn.hepsiburada.com</a><br>
